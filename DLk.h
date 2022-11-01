@@ -1,5 +1,5 @@
-#ifndef __LK_H__
-#define __LK_H__
+#ifndef __DLK_H__
+#define __DLK_H__
 
 class node
 {
