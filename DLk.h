@@ -3,7 +3,7 @@
 
 class node
 {
-public:
+private:
     int data;
     node *next;
     node *prev;
