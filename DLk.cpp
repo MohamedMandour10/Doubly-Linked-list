@@ -35,7 +35,7 @@ using namespace std;
             newNode->prev = nullptr;
             Head->prev = newNode ;
             Head =  newNode;
-            tail = newNode->next;
+            
         }
         size++;
     }
